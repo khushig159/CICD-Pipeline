@@ -35,7 +35,7 @@ export default function App() {
 
   return (
     <div style={{ padding: '50px', fontFamily: 'Arial' }}>
-      <h1>Mera Pro MERN Todo 🔥</h1>
+      <h1>Mera Pro MERN Todo </h1>
 
       <input
         value={newTask}
