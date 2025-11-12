@@ -2,6 +2,7 @@ const express=require('express')
 const router=express.Router()
 
 let todos=[
+        {id:1, task:"Learn Devops properly", completed:false},
     {id:1, task:"Learn Mern properly", completed:false}
 ];
 
