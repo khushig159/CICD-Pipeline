@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import axios from 'axios'; // ✅ Correct import (default export)
+import axios from 'axios';
 
 export default function App() {
   const [todos, setTodos] = useState([]);
